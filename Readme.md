@@ -3,11 +3,12 @@
 ## 1. Project structure
 [![ProjectStructure.png](https://s14.postimg.org/u8wik9z5d/Project_Structure.png)](https://postimg.org/image/fppdiv60d/)
 
-## 2. Class diagram
 
-
-## 3. Architecture diagram
+## 2. Architecture diagram
 [![Präsentation1.png](https://s11.postimg.org/ya79hzdc3/Pr_sentation1.png)](https://postimg.org/image/q4p7jtp33/)
+
+## 3. Program Flow
+[![137Flowchart.png](https://s14.postimg.org/4itv35jht/137_Flowchart.png)](https://postimg.org/image/f5no8krn1/)
 
 ## 4. Milestones
 * 10/7: Project Idea finalized and ready to be developed (screens, and features)
